@@ -3,8 +3,8 @@ SnapCha7
 
 SnapCha7 lets you use the SnapChat Services on a web browser.
 
-It based on the awesome snaphax< library by Thomas Lackner <[@tlack](http://twitter.com/tlack)>, it lets you see your new snaps directly on a web broser.
-
+It based on the awesome snaphax< library by Thomas Lackner <[@tlack](http://twitter.com/tlack)> and Bootstrap.
+It lets you see your new snaps directly on a web broser.
 
 How to use
 ----------
