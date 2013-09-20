@@ -1,0 +1,43 @@
+SnapCha7
+-------
+
+SnapCha7 lets you use the SnapChat Services on a web browser.
+
+It based on the awesome snaphax< library by Thomas Lackner <[@tlack](http://twitter.com/tlack)>, it lets you see your new snaps directly on a web broser.
+
+
+How to use
+----------
+
+Download Files and upload to a server.
+
+It should be working perfectly
+```
+
+Limitations
+-----------
+
+Only login (with list of new media) and fetching of image/video snaps is
+implemented.
+
+TODO:
+-------
+-Add friends
+-Send Snapchats
+-Set viewed Snaps
+-Something else....
+
+License
+-------
+
+MIT
+
+Credits
+-------
+Santiago Lozano R 2013
+
+SnapHax by Thomas Lackner <[@tlack](http://twitter.com/tlack)>
+
+And of course none of
+this would be possible without the inventiveness of the
+[Snapchat](http://snapchat.com) team
